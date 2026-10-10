@@ -1,0 +1,8 @@
+# Binaries and build artifacts
+*.out
+*.o
+*.exe
+conversion
+sum_harmonic
+trapezoid
+.DS_Store
